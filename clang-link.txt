@@ -1,0 +1,1 @@
+https://github.com/Renayura/fortune-clang/releases/download/fortune-clang-16.0.0-20230123-release/fortune-clang-16.0.0-20230123-2143.tar.gz
