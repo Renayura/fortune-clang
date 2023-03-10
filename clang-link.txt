@@ -1,1 +1,1 @@
-https://github.com/Renayura/fortune-clang/releases/download/fortune-clang-17.0.0-20230307-release/fortune-clang-17.0.0-20230307-1244.tar.gz
+https://github.com/Renayura/fortune-clang/releases/download/fortune-clang-17.0.0-20230310-release/fortune-clang-17.0.0-20230310-1443.tar.gz
